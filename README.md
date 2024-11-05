@@ -45,7 +45,7 @@ This procedure provides a helpful utility for database developers to generate mo
 
 ## 2.Database Structure
 
-To use this procedure, two tables are required in our database: Employees and Attendance. Below are the table structures:
+To use this procedure, two tables are required in your database: Employees and Attendance. Below are the table structures:
 
 ```sql
 CREATE TABLE Employees (
